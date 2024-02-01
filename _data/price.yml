@@ -12,8 +12,7 @@ plan_starter_tagline: Security
 plan_starter_price: '<span>$49</span>/user/month'
 plan_starter_description: '<li>✔️ Health Report & Strategy Insights</li>
                                 <li>✔️ Cybersecurity SWOT Analysis</li>
-                                <li>✔️ Industry Benchmark</li>'
-                                <li>✔️ Cybersecurity SWOT Analysis</li>
+                                <li>✔️ Industry Benchmark</li>
                                 <li>✔️ Vasto AI Assistance</li>'
 plan_starter_url: '#'
 plan_starter_btn_text: 'Get Started'

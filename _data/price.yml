@@ -10,22 +10,22 @@ pricing_table_description: "The first is a non technical method which requires t
 plan_starter_name: Free
 plan_starter_tagline: Analysis, Insights & Benchmark
 plan_starter_price: '<span>$FREE</span>/user/month'
-plan_starter_description: '<li>✔️ Health Report & Strategy Insights</li>
-                                <li>✔️ Cybersecurity SWOT Analysis</li>
-                                <li>✔️ Industry Benchmark</li>
-                                <li>✔️ Vasto AI Assistance</li>'
+plan_starter_description: '<li>Health Report & Strategy Insights</li>
+                                <li>Cybersecurity SWOT Analysis</li>
+                                <li>Industry Benchmark</li>
+                                <li>Vasto AI Assistance</li>'
 plan_starter_url: '#'
 plan_starter_btn_text: 'Get Started'
 
 # Team Plan
-plan_standard_name: Pro
+plan_standard_name: Professional
 plan_standard_tagline: Health report & recommendation, CSF 2.0 Adherence & Security Program 
 plan_standard_price: '<span>$49</span>/mo'
 plan_standard_description: ' <li>All previous + </li>
-                                <li>✔️ Detailed Health & Strategy Report</li>
-                                <li>✔️ Industry & SWOT Recommendations</li>
-                                <li>✔️ Vasto AI Virtual Security Consultant</li>
-                                <li>✔️ Build your own Security Program</li>'
+                                <li>Detailed Health & Strategy Report</li>
+                                <li>Industry & SWOT Recommendations</li>
+                                <li>Vasto AI Virtual Security Consultant</li>
+                                <li>Build your own Security Program</li>'
 plan_standard_url: '#'
 plan_standard_btn_text: 'Get Started'
 
@@ -34,9 +34,9 @@ plan_standard_btn_text: 'Get Started'
 plan_business_name: Enterprise
 plan_business_tagline: Real-time + most powerful AI
 plan_business_price: '<span>contact us</span>/'
-plan_business_description: ' <li>✔️ Real-time monitoring with connectors</li>
-                                <li>✔️ Heads Up Alerts</li>
-                                <li>✔️ Vasto AI CISO</li>'
+plan_business_description: ' <li>Real-time monitoring with connectors</li>
+                                <li>Heads Up Alerts</li>
+                                <li>Vasto AI CISO</li>'
 plan_business_url: '#'
 plan_business_btn_text: 'Get Started'
 

@@ -3,21 +3,23 @@
 #####################################
 ########## Pricing Tables ###########
 #####################################
-pricing_table_title: AASelect your Best Pricing'
+pricing_table_title: Select the right package for your business'
 pricing_table_description: "The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected. "
 
 # Personal Plan
 plan_starter_name: Free
 plan_starter_tagline: Security
-plan_starter_price: '<span>$89</span>/user/month'
-plan_starter_description: '<li>02 Users permitted</li>
-                                <li>Unlimited Styles for interface</li>
-                                <li>New Update Available</li>'
+plan_starter_price: '<span>$49</span>/user/month'
+plan_starter_description: '<li>✔️ Health Report & Strategy Insights</li>
+                                <li>✔️ Cybersecurity SWOT Analysis</li>
+                                <li>✔️ Industry Benchmark</li>'
+                                <li>✔️ Cybersecurity SWOT Analysis</li>
+                                <li>✔️ Vasto AI Assistance</li>'
 plan_starter_url: '#'
 plan_starter_btn_text: 'Get Started'
 
 # Team Plan
-plan_standard_name: Data Landscape
+plan_standard_name: Pro
 plan_standard_tagline: Small business holders
 plan_standard_price: '<span>£49</span>/mo'
 plan_standard_description: ' <li>05 Users permitted</li>
@@ -28,9 +30,9 @@ plan_standard_btn_text: 'Get Started'
 
 
 # business Plan
-plan_business_name: Risk Landscape
-plan_business_tagline: Small business holders
-plan_business_price: '<span>£99</span>/mo'
+plan_business_name: Enterprise
+plan_business_tagline: Real-time connectors and alerts + most powerful AI
+plan_business_price: '<span>£99</span>/'
 plan_business_description: '<span>£99</span>/mo'
 plan_business_description: ' <li>Unlimited Users permitted</li>
                                 <li>Unlimited Styles for interface</li>

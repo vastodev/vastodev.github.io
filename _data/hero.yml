@@ -44,8 +44,8 @@ sass_slider:
   - image: 'img/carusel/s3.jpg'
 
 # product [ only one image ]
-product_name: 'Vasto Security delivers cybersecurity SaaS solutions to finally connect security, strategy, risk and business into a powerful AI-based platform'
-product_text: 'Our platform leverages the industry most advanced standards and risk quantification models to allow you to understand your current security landscape, evolve your security strategy with feasible security roadmaps, and align your cybersecurity program to your organization business.'
+product_name: 'We deliver cybersecurity solutions to connect security, risk and business strategy into a powerful AI-based platform'
+product_text: 'Our SaaS platform leverages the industry most advanced standards and risk quantification models to allow you to understand your current security landscape, evolve your security strategy with feasible security roadmaps, and align your cybersecurity program to your organization business.'
 product_image: 'img/hero/hero-img2.png'
 product_btn_one_link: '#'
 product_btn_one_text:  'Browse free demo'

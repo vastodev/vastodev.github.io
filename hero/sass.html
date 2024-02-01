@@ -1,0 +1,18 @@
+<section class="hero-section relative">
+    <div class="container">
+        <div class="row fullscreen align-items-center relative" style="height: 247px;">
+            <div class="col-lg-6 content-wrap">
+                <h1 class="pt-5">
+                    {{ site.data.hero.sass_name }}
+                </h1>
+                <p>
+                    {{ site.data.hero.sass_text }}
+                </p>
+                <a href="{{ site.data.hero.sass_btn_one_link }}" class="genric-btn2 mr-sm-3">{{ site.data.hero.sass_btn_one_text }}</a>
+                <a href="{{ site.data.hero.sass_btn_two_link }}" class="genric-btn mt-4 mt-sm-0"> {{ site.data.hero.sass_btn_two_text }}  </a>
+            </div>
+        </div>
+    </div>
+    <img class="hero-img" src="{{ site.data.hero.sass_image | relative_url }}" alt="">
+</section>
+<!-- End hero-section -->

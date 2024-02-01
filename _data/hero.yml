@@ -44,8 +44,8 @@ sass_slider:
   - image: 'img/carusel/s3.jpg'
 
 # product [ only one image ]
-product_name: 'We deliver cybersecurity solutions to connect security, risk and business strategy into a powerful AI-based platform'
-product_text: 'Our SaaS platform leverages the industry most advanced standards and risk quantification models to allow you to understand your current security landscape, evolve your security strategy with feasible security roadmaps, and align your cybersecurity program to your organization business.'
+product_name: 'We connect security, risk and business strategy into a powerful AI-based platform'
+product_text: 'Our SaaS platform leverages the industry most advanced standards and risk quantification models to allow you to understand your security landscape, evolve your strategy with feasible roadmaps, and align your cybersecurity program to your organization business.'
 product_image: 'img/hero/hero-img2.png'
 product_btn_one_link: '#'
 product_btn_one_text:  'Browse free demo'

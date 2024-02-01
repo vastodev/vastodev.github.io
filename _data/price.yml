@@ -3,12 +3,12 @@
 #####################################
 ########## Pricing Tables ###########
 #####################################
-pricing_table_title: 'Select your Best Pricing'
+pricing_table_title: AASelect your Best Pricing'
 pricing_table_description: "The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected. "
 
 # Personal Plan
-plan_starter_name: Security Landscape
-plan_starter_tagline: Free
+plan_starter_name: Free
+plan_starter_tagline: Security
 plan_starter_price: '<span>$89</span>/user/month'
 plan_starter_description: '<li>02 Users permitted</li>
                                 <li>Unlimited Styles for interface</li>

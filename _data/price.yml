@@ -8,7 +8,7 @@ pricing_table_description: "The first is a non technical method which requires t
 
 # Personal Plan
 plan_starter_name: Starter
-plan_starter_tagline: Analysis, Insights & Benchmark
+plan_starter_tagline: Analysis, Benchmark & Insights
 plan_starter_price: '<span>FREE</span>'
 plan_starter_description: '<li>Health Report & Strategy Insights</li>
                                 <li>Cybersecurity SWOT Analysis</li>
@@ -19,7 +19,7 @@ plan_starter_btn_text: 'Get Started'
 
 # Team Plan
 plan_standard_name: Professional
-plan_standard_tagline: Security Health Report & Recommendations, CSF 2.0 Adherence & Security Program 
+plan_standard_tagline: Reports, Recommendations and your Security Program 
 plan_standard_price: '<span>$49</span>/user/month'
 plan_standard_description: ' <li>All previous + </li>
                                 <li>Detailed Health & Strategy Report</li>

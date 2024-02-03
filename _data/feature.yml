@@ -5,13 +5,13 @@
 ######  feature Section   ######
 ####################################
 - image: 'img/feature/i1.png'
-  title: 'Security'
+  title: 'Vasto Security Landscape'
   description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even  management.'
 
 - image: 'img/feature/i3.png'
-  title: 'Data'
+  title: 'Vasto Data Classification'
   description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
 
 - image: 'img/feature/i4.png'
-  title: 'Risk'
+  title: 'Vasto Risk Quantifier'
   description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'

@@ -44,7 +44,7 @@ sass_slider:
   - image: 'img/carusel/s3.jpg'
 
 # product [ only one image ] *** Landing page ***
-product_name: 'Security, Data and Risk combined into a powerful AI-based platform'
+product_name: 'Security, Data and Risk combined into a powerful AI-based cybersecurity platform'
 product_text: 'Our SaaS platform leverages the industry most advanced standards and risk models to allow you to understand your security landscape, evolve your strategy with feasible roadmaps, and align your cybersecurity program to your organization business.'
 product_image: 'img/hero/hero-img2.png'
 product_btn_one_link: '#'

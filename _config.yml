@@ -2,9 +2,9 @@
 ####################################
 ######     Global start     ######
 ####################################
-name                : 'Ducor'
+name                : 'Vasto'
 title               : 'Vasto Security'
-email               : demo@example.com
+email               : contact@vastosecurity.com
 address             : '2216 Park Avenue, California 95630 '
 phone               : 0185612012035
 tagline             : 'description for your new site here' 
@@ -30,7 +30,7 @@ markdown            : kramdown
 google_analytics: 
 
 # disqus comment
-disqus_shortname: softdash
+disqus_shortname: vastosecurity
 
 
 ####################################

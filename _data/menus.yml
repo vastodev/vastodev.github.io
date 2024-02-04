@@ -44,7 +44,7 @@ header:
         link: '/multiple/index9/'
         
   - name: 'Features'
-    title: 'Solutions'
+    title: 'Features'
     link: '/multiple/features/'
 
   - name: 'about'

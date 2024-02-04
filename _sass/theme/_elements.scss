@@ -79,9 +79,9 @@
 }
 
 .d3-gradient-bg {
-    background-image: -moz-linear-gradient(0deg, rgb(44, 0, 255) 0%, rgb(163, 82, 245) 100%);
-    background-image: -webkit-linear-gradient(0deg, rgb(44, 0, 255) 0%, rgb(163, 82, 245) 100%);
-    background-image: -ms-linear-gradient(0deg, rgb(44, 0, 255) 0%, rgb(163, 82, 245) 100%);
+    background-image: -moz-linear-gradient(0deg, rgb(44, 0, 255) 0%, rgb(0, 0, 0));
+    background-image: -webkit-linear-gradient(0deg, rgb(44, 0, 255) 0%, rgb(0, 0, 0) 100%);
+    background-image: -ms-linear-gradient(0deg, rgb(44, 0, 255) 0%, rgb(0, 0, 0) 100%);
 }
 
 .d4-gradient-bg {
@@ -91,9 +91,9 @@
 }
 
 .v3-gradient-bg {
-    background-image: -moz-linear-gradient( 0deg, rgb(20, 29, 162) 0%, rgb(139, 62, 251) 100%);
-    background-image: -webkit-linear-gradient( 0deg, rgb(20, 29, 162) 0%, rgb(139, 62, 251) 100%);
-    background-image: -ms-linear-gradient( 0deg, rgb(20, 29, 162) 0%, rgb(139, 62, 251) 100%);
+    background-image: -moz-linear-gradient( 0deg, rgb(20, 29, 162) 0%, rgb(0, 0, 0) 100%);
+    background-image: -webkit-linear-gradient( 0deg, rgb(20, 29, 162) 0%, rgb(0, 0, 0) 100%);
+    background-image: -ms-linear-gradient( 0deg, rgb(20, 29, 162) 0%, rgb(0, 0, 0) 100%);
 }
 
 .genric-btn {
@@ -191,7 +191,7 @@
 .genric-btn4 {
     @extend .d1-gradient-bg;
     color: $white;
-    $light-purple: #9a88fe;
+    $light-purple: #000000;
     position: relative;
     display: inline-block;
     z-index: 1;

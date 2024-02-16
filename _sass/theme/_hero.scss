@@ -31,6 +31,8 @@
 .version2 {
   .hero-section {
     background: url(../img/hero/hero-bg2.png) no-repeat bottom center/cover;
+    height: 90vh; /* Set height to 100% of viewport height */
+    position: relative; /* Set position to relative */
   }
   .content-wrap {
     h1 {

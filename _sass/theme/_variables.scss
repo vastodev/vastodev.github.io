@@ -3,7 +3,7 @@
 
 $primary-font	: 'Montserrat', sans-serif;
 
-// --------------------------- aqui está a variação de cor usada em todo site ----------------------
+// --------------------------- aqui está a variação de cor usada em todo site --------------------------------
 
 //primary-color faz as cores da SELEÇÃO, BANNER DO CTA, BOTÕES DO CORPO, SELEÇAO DE BOXES e BOTTOM BANNER
 $primary-color	: #000000;  
@@ -12,8 +12,8 @@ $primary-color	: #000000;
 //primary-color2 faz as cores do 1o BANNER DO CTA, BOTOES abaixo do 1o banner e BOTTOM BANNER
 $primary-color2	: #141212;
 
-//title-color faz as cores do TEXTO DO MENU DO HEAD BANNER e TÍTULOS DO BODY 
-$title-color	: #ffffff;
+//title-color faz as cores do TEXTO DO MENU DO Headbanner e TÍTULOS DO BODY 
+$title-color	: #000000;
 
 //text-color faz as cores dos TEXTOS MENORES DO BODY
 $text-color		: #252525;
@@ -23,5 +23,8 @@ $aquablue-color : #3eaff5;
 //$white faz as cores do HEADER BANNER (menu), TEXTO SELECIONADO, BANNER DOS CLIENTES, 
 $white			: #ffffff;
 
+//offwhite faz as cores do BOTAO DE FREE TRIAL do Headbanner, dos QUADRADOS DAS SOLUCOES, 
 $offwhite		: #0dc8d2;
-$black			: #222;
+
+
+$black			: #bfd613;

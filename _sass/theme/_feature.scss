@@ -19,7 +19,7 @@
 
 .single-feature {
     margin-top: 30px;
-    border: 2px solid transparent;
+    border: 2px solid #000000;
     padding: 48px 38px;
     @include transition();
     .icon {
@@ -43,8 +43,8 @@
 		}
     }
     &:hover {
-        background: #329ebe;
-        border: 2px solid #000000;
+        background: #ffffff;
+        border: 2px solid #329ebe;
 		.icon {
 			span {
 				background: #329ebe;

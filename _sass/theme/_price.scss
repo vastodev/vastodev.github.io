@@ -31,7 +31,7 @@
 .version2 {
     .price-section {
         background-color: cyan;
-        background: url(../img/price-bg.jpg) no-repeat bottom center/cover;
+        /*background: url(../img/price-bg.jpg) no-repeat bottom center/cover;*/
         @media(max-width: 991px) {
             .col-lg-4:last-child {
                 .single-price2 {

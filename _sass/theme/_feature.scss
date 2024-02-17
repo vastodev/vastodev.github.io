@@ -26,7 +26,7 @@
         span {
             padding: 23px;
             display: inline-block;
-            background: #329ebe;
+            background: #ffffff;
             border-radius: 50%;
             @include transition();
         }
@@ -43,7 +43,7 @@
 		}
     }
     &:hover {
-        background: #ffffff;
+        background: #329ebe;
         border: 2px solid #329ebe;
 		.icon {
 			span {

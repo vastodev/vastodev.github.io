@@ -4,7 +4,6 @@
 
 .feature-list {
     margin-bottom: 30px;
-    background-color: #329ebe; /* Set background color to blue */
     &:last-child {
         margin-bottom: 0px;
     }
@@ -20,6 +19,7 @@
 
 .single-feature {
     margin-top: 30px;
+    background-color: #329ebe; /* Set background color to blue */
     border: 2px solid #000000;
     padding: 48px 38px;
     @include transition();

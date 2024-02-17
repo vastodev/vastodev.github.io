@@ -36,7 +36,7 @@
     z-index: 997;
     .genric-btn {
         &:hover {
-            color: rgba(198, 67, 23, 0.8)!important;
+            color: $white!important;
         }
     }
 }
@@ -44,7 +44,7 @@
 #header.header-scrolled {
     transition: all 0.5s;
     background: #329ebe;
-    box-shadow: -21.213px 21.213px 30px 0px #329ebe;
+    box-shadow: -21.213px 21.213px 30px 0px #34ca27;
     #logo {
         .logo-1 {
             display: none;

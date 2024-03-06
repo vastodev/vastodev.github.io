@@ -52,65 +52,6 @@
                 }
             }
         }
-        .newsletter-form {
-            .form-wrap {
-                border: 0px;
-            }
-            .form-control {
-                border-radius: 0px;
-                font-size: 14px;
-                border: none;
-                width: 100%;
-                overflow: hidden;
-                background: $primary-color2;
-				color: #ffffff;
-				min-height: 40px;
-                &:focus {
-                    box-shadow: none;
-                    color: #ffffff !important;
-                }
-                &::placeholder {
-                    /* Chrome, Firefox, Opera, Safari 10.1+ */
-                    color: #ffffff;
-                    font-size: 13px;
-                    opacity: 1;
-                    /* Firefox */
-                }
-                &:-ms-input-placeholder {
-                    /* Internet Explorer 10-11 */
-                    color: #ffffff;
-                    font-size: 13px;
-                }
-                &::-ms-input-placeholder {
-                    /* Microsoft Edge */
-                    color: #ffffff;
-                    font-size: 13px;
-                }
-            }
-            .submit-btn {
-                box-shadow: none;
-                border: none;
-                color: $title-color;
-                padding: 0px 10px;
-                background: $white;
-                .lnr {
-                    font-weight: 700;
-                }
-                &:hover {
-                    cursor: pointer;
-                }
-            }
-            .info {
-                color: #00ff18 !important;
-                a {
-                    color: $white !important;
-                    text-decoration: underline;
-                }
-            }
-            .error {
-                color: #960000 !important;
-            }
-        }
         @media(max-width:991px) {
             margin-bottom: 50px;
         }

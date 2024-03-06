@@ -20,7 +20,7 @@
   @include transition($btn-transition);
 
   &:hover {
-    color: #000000;
+    color: #b50b0b;
     text-decoration: if($link-hover-decoration == underline, none, null);
   }
 

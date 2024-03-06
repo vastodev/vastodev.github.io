@@ -4,10 +4,10 @@ layout: default
 
 {% include hero.html %}
 
-{% include section/client-review.html %}
-
-<!--remover features-->
-<!--{% include section/feature.html %}-->
+<!--removendo pagina das 3 caixas de feature-->
+{% comment %}
+    {% include section/feature.html %}
+{% endcomment %}
 
 {% include section/marketing.html %}
 
@@ -28,6 +28,7 @@ layout: default
 {% endcomment %}
 
 <!--local original do client-review-->
+{% include section/client-review.html %}
 
 <!--removendo blog-->
 {% comment %}

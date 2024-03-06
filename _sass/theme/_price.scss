@@ -30,6 +30,7 @@
 
 .version2 {
     .price-section {
+        // cor do fundo da area de pricing
         background-color: #CBE4DE;
         /*background: url(../img/price-bg.jpg) no-repeat bottom center/cover;*/
         @media(max-width: 991px) {
@@ -203,7 +204,7 @@
             h1,
             h4,
             p {
-                color: $white;
+                color: #1ad117;
             }
         }
     }

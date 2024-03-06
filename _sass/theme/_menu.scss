@@ -36,7 +36,8 @@
     z-index: 997;
     .genric-btn {
         &:hover {
-            color: #de1818;
+            //cor que o texto do botao do header ficará em mouseover
+            color: #000000;
         }
     }
 }

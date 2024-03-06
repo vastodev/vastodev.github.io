@@ -18,7 +18,7 @@
 .footer-area {
     .single-footer-widget {
         h4 {
-            color: #000000;
+            color: #ffffff;
             margin-bottom: 30px;
         }
         p {
@@ -28,7 +28,7 @@
             li {
                 margin-bottom: 10px;
                 a {
-                    color: $white;
+                    color: #2C3333;
                     @include transition();
                     &:hover {
                         text-decoration: underline;

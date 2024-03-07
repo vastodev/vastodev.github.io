@@ -3,8 +3,8 @@
 ########## Unique Feature ###########
 #####################################
 
-title: 'Features that make us Stand Out'
-description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected.'
+title: 'Key Features That Distinguish Vasto in Cybersecurity'
+description: 'Empower Your Cybersecurity Journey with Our Advanced AI Tool. From Start to Finish, it Guides You Through Every Step, Ensuring Your Business is Safeguarded Effectively and Cost-Efficiently. Harness the Strength of Cutting-Edge AI to Protect Your Digital Assets and Ensure Seamless Business Continuity, All Without Breaking the Bank.'
 image: 'img/title-icon.png' 
 
 main_image_slider: 
@@ -13,13 +13,13 @@ main_image_slider:
   - image: 'img/carusel/c3.png'
 
 sections:
-- title: 'Certifications'
-  description: 'We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to day, also asks us to remain.'
+- title: 'NIST CSF 2.0'
+  description: 'Assessing your organization against the NIST Cybersecurity Framework (CSF) is essential for strengthening cybersecurity. Vasto provides a structured approach, aligned with CSF 2.0 to facilitate compliance and enhance resilience.'
   image: http://127.0.0.1:4000/img/feature/f1.png
   link: '#'
 
-- title: 'Page Builder'
-  description: 'Vera sought out counseling with me because her doctor advised her to discover the emotional causes of her chronic fatigue.'
+- title: 'Vasto AI Guidance'
+  description: 'Using AI for cybersecurity provides significant business benefits. Vasto AI enhances operational efficiency by automating time-consuming tasks, allowing cybersecurity teams to focus on strategic initiatives that drive business growth.'
   image: http://127.0.0.1:4000/img/feature/f2.png
   link: '#'
 

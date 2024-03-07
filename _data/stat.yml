@@ -1,8 +1,8 @@
 ####################################
 ######  Statistics Sectio da landing page    ######
 ####################################
-title: 'See how we enable cybersecurity operations'
-description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected.'
+title: 'Vasto Security Landscape can get it done'
+description: 'Vasto is integrating business and cybersecurity in a novel and unprecedented manner within the industry.'
 image: 'img/title-icon.png'
 
 # main big image
@@ -11,22 +11,22 @@ start_image: 'img/stat/stat-img.png'
 # 4 section image
 statistics:
   - image: 'img/stat/s1.png'
-    title: 'Productivity'
+    title: 'Instant Effectiveness'
     link: '#'
-    description: 'Making changes in your life is great and it is the way we grow and develop as people. Change is a constant.'
+    description: 'Discover Your Security Landscape in Minutes with Our Rapid Assessment Tool.'
 
   - image: 'img/stat/s2.png'
-    title: 'Sales Monitoring'
+    title: 'Business Language'
     link: '#'
-    description: 'Making changes in your life is great and it is the way we grow and develop as people. Change is a constant.'
+    description: 'Seamlessly Communicate Business Impacts, Risk Mitigation, and Strategic Insights, All in a Language That Resonates with Top Decision-Makers.'
 
   - image: 'img/stat/s2.png'
-    title: 'Payment Stats'
+    title: 'Answers!'
     link: '#'
-    description: 'Making changes in your life is great and it is the way we grow and develop as people. Change is a constant.'
+    description: 'Utilizing Vasto AI, Our Tool Delivers Answers to the Most Complex Cybersecurity Questions, Offering Unparalleled Insight and Strategic Guidance.'
 
   - image: 'img/stat/s4.png'
-    title: 'Pending Clearnance'
+    title: 'Industry Benchmark'
     link: '#'
-    description: 'Making changes in your life is great and it is the way we grow and develop as people. Change is a constant.'
+    description: 'We Go Beyond Standard Solutions, Offering Deep Industry Benchmarks to Ensure Your Cybersecurity Strategy Is Ahead of the Curve'
     

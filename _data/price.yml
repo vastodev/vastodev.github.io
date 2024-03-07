@@ -18,10 +18,10 @@ plan_starter_url: '#'
 plan_starter_btn_text: 'Get Started'
 
 # Team Plan
-plan_standard_name: Professional
-plan_standard_tagline: Reports, Recommendations + your Security Program 
+plan_standard_name: Pro
+plan_standard_tagline: Assess yourself and build a Security Program that fits your business 
 plan_standard_price: '<span>$49</span>/user/month'
-plan_standard_description: ' <li>Starter plan items</li>
+plan_standard_description: ' <li>Starter plan items +</li>
                                 <li>Adherence to NIST CSF 2.0</li>
                                 <li>Detailed Health & Strategy Report</li>
                                 <li>Industry & SWOT Recommendations</li>
@@ -35,7 +35,7 @@ plan_standard_btn_text: 'Get Started'
 plan_business_name: Enterprise
 plan_business_tagline: Real-time + most powerful AI
 plan_business_price: '<span>contact us</span>'
-plan_business_description: ' <li>Professional plan items</li>
+plan_business_description: ' <li>Professional plan items +</li>
                                 <li>Real-time monitoring with connectors</li>
                                 <li>Heads Up Alerts</li>
                                 <li>Vasto AI CISO</li>'

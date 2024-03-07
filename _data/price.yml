@@ -12,7 +12,7 @@ plan_starter_tagline: Analysis, Benchmark & Insights
 plan_starter_price: '<span>FREE</span>'
 plan_starter_description: '<li>Vasto AI Security Assessment</li>
                                 <li>Cybersecurity SWOT Analysis</li>
-                                <li>Industry Benchmark</li>
+                                <li>Industry Benchmark</li>''
 plan_starter_url: '#'
 plan_starter_btn_text: 'Get Started'
 
@@ -23,8 +23,8 @@ plan_standard_price: '<span>$49</span>/user/month'
 plan_standard_description: ' <li>Starter plan items +</li>
                                 <li>NIST CSF 2.0 Assessment</li>
                                 <li>Industry-oriented Recommendations</li>
-                                <li>Build your own Security Program</li>'
-                                <li>Vasto AI Security Consultant</li>
+                                <li>Build your own Security Program</li>
+                                <li>Vasto AI Security Consultant</li>''
 plan_standard_url: '#'
 plan_standard_btn_text: 'Get Started'
 

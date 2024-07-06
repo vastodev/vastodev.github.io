@@ -44,7 +44,7 @@ sass_slider:
   - image: 'img/carusel/s3.jpg'
 
 # product [ only one image ] *** Landing page ***
-product_name: 'Unlocking Cybersecurity Confidence: Your Trusted AI Tool for Any and Every Cybersecurity Question'
+product_name: 'Understand your Cybersecurity Landscape now'
 product_text: 'Vasto Security Landscape can rapidly assess your environemnt and provide actionable insights to elevate your cybersecurity strategy and gain executive support'
 product_image: 'img/hero/hero-img2.png'
 product_btn_one_link: '#'
